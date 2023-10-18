@@ -1,0 +1,29 @@
+{
+  "name": "null-object",
+  "version": "1.0.0",
+  "description": "A module for creating a NullObject that only has index and length properties.",
+  "type": "module",
+  "author": "Cal Young",
+  "repository": {
+    "url": "https://github.com/Clyng57/null-object"
+  },
+  "keywords": [
+    "object",
+    "null",
+    "null-object",
+    "plain-object",
+    "nodejs",
+    "javascript",
+    "module",
+    "node",
+    "es6"
+  ],
+  "main": "./index.js",
+  "types": "./types",
+  "standard": {
+    "engine": "standard",
+    "ignore": [
+      "/types"
+    ]
+  }
+}
