@@ -1,6 +1,6 @@
 {
-  "name": "null-object",
-  "version": "1.0.0",
+  "name": "@neumatter/null-object",
+  "version": "1.0.1",
   "description": "A module for creating a NullObject that only has index and length properties.",
   "type": "module",
   "author": "Cal Young",
