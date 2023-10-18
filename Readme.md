@@ -15,7 +15,7 @@ Create a null prototype Object. The created object will have no methods.
 ## Install
 
 ```console
-npm i null-object
+npm i @neumatter/null-object
 ```
 
 <br />
@@ -24,7 +24,7 @@ npm i null-object
 ## Usage
 
 ```js
-import NullObject from 'null-object'
+import NullObject from '@neumatter/null-object'
 
 const nullObject = new NullObject()
 // use nullObject
